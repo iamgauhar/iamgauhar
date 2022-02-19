@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamgauhar
 - 👀 I’m interested in computer science (Web Development)...
-- 🌱 I’m currently learning Bachelor of Computer Application.
+- 🌱 I’m currently doing Bachelor of Computer Application.
 - 💞️ I want to invite Bill Gates for dinner at my home.
 - 📫 Just email me iamgauhar@hotmail.com
 
