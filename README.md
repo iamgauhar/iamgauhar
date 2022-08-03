@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamgauhar
+- 👋 Hi, I’m Gauhar.
 - 👀 I’m interested in computer science (Full Stack Web Development)...
 - 🌱 I have completed Bachelor of Computer Application.
 - 💞️ I want to invite Bill Gates for dinner at my home.
