@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gauhar</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a Full Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -26,13 +26,10 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
   <a href="https://www.expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000001/express-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
@@ -57,8 +54,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/iamgauhar/github-readme-activity-graph"><img alt="Mohammad Gauhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamgauhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true" /></a> -->
+<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true) -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=070b0e&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true)
 <br/>
 <br/>
 
