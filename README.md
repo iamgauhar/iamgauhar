@@ -56,7 +56,7 @@
 
 <!-- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true" /></a> -->
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true) -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=070b0e&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true)
+![Gauhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=070b0e&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true)
 <br/>
 <br/>
 
