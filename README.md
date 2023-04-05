@@ -38,10 +38,10 @@
 
 <p align="center">
     <a href="https://github.com/iamgauhar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohammad Gauhar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Mohammad Gauhar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshgupta1997&" alt="sarveshgupta1997" /></p> -->
 ## 📊 My Github Stats
 
   <br/>
