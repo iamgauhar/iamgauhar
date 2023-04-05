@@ -68,8 +68,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<p>
     <img src="https://komarev.com/ghpvc/?username=iamgauhar">
-</a>
-<a href="https://github.com/iamgauhar?tab=followers"><img src="https://img.shields.io/github/followers/iamgauhar?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+<p><img src="https://img.shields.io/github/followers/iamgauhar?label=Followers&style=social" alt="GitHub Badge"></p>
 
