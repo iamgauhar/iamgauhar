@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://sarveshgupta1997.github.io/](https://iamgauhar.github.io/)
+- 👨‍💻 All of my projects are available at [https://iamgauhar.github.io/](https://iamgauhar.github.io/)
 
 - 📫 How to reach me **iamgauhar@gmail.com**
 
