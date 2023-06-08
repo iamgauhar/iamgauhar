@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamgauhar.github.io/](https://iamgauhar.github.io/)
 
-- 📫 How to reach me **iamgauhar@gmail.com**
+- 📫 How to reach me **iamgauhar.in@gmail.com**
 
 
 ## 🚀 Languages and Tools:
