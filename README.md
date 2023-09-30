@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Blogging Application]**
+- 🔭 I’m currently working on **[URL Shortener Application]**
 
 - 🌱 I’m currently learning **Web Development & DSA**
 
