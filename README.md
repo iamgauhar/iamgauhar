@@ -1,56 +1,62 @@
-## 🚀 Languages and Tools:
+# Mohammad Gauhar
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-  <a href="https://www.expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000001/express-js.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+**📍 Location:** Maghar, India  
+📧 **Email:** [iamgauhar.in@gmail.com](mailto:iamgauhar.in@gmail.com)  
+📞 **Phone:** [+91 8896039057](tel:+918896039057)  
+🌐 **Portfolio:** [iamgauhar.in](https://iamgauhar.in)  
+🔗 **LinkedIn:** [linkedin.com/in/iamgauhar](https://www.linkedin.com/in/iamgauhar)  
+💻 **GitHub:** [github.com/iamgauhar](https://github.com/iamgauhar)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
 
-<p align="center"><img alt="Mohammad Gauhar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshgupta1997&" alt="sarveshgupta1997" /></p> -->
-## 📊 My Github Stats
+## 🧑‍💻 Summary
 
-  <br/>
-    <p align="center"><img alt="Mohammad Gauhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamgauhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
-    
-  <p align="center"><img alt="Mohammad Gauhar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+Full-Stack Web Developer with **1.5+ years** of experience, including a **3-month internship** and **full-time role**. Skilled in **MERN stack** (_MongoDB, Express.js, React.js, Node.js_), building **responsive UIs** with **React**, **Redux**, and **Tailwind CSS**, and developing **RESTful APIs**.  
+Passionate about **clean code**, **UI/UX**, and **high-performance web apps**.
 
+---
 
-<br/>
-<br/>
+## 🎓 Education
 
-<!-- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true" /></a> -->
-<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=0d1117&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true) -->
-![Gauhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamgauhar&bg_color=070b0e&color=ffffff&line=00f549&point=ffffff&area=true&hide_border=true)
-<br/>
-<br/>
+**Makhanlal Chaturvedi National University, Bhopal**  
+_Bachelor of Computer Application_  
+📅 **Aug 2019 – Jun 2022**
 
-## Connect with me:
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/iamgauhar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamgauhar.in/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+## 💼 Experience
 
-</p>
+### Full-Stack Developer — *Evallo Digital Products (Remote)*  
+📅 **Feb 2024 – Present**
 
-## ❤ Views and Followers
-<p>
-    <img src="https://komarev.com/ghpvc/?username=iamgauhar">
-</p>
-<p><img src="https://img.shields.io/github/followers/iamgauhar?label=Followers&style=social" alt="GitHub Badge"></p>
+- Developed a **responsive marketing website** using React.js, increasing **lead generation by 40%**.
+- Led a custom integration project, managing code reviews and timelines.
+- Integrated **Payrix** with features like split/scheduled payments and invoicing.
+- Built dashboards and admin tools using Chart.js, Recharts, and custom APIs.
+- Integrated **Calendly** and lead generation forms.
 
+---
+
+## 🛠️ Projects
+
+### [URL Shortener Service](https://github.com/iamgauhar/URL-shortener)
+
+Built a scalable, full-stack URL shortener with analytics and authentication.
+
+- Built with **React.js**, **Node.js**, **Express**, and **MySQL**
+- Auth: Signup, Login, Email Verification, Forgot Password
+- Analytics dashboard to monitor usage
+- Admin interface for managing links
+- Copy-to-clipboard and CRUD functionality
+
+---
+
+## ⚙️ Skills
+
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, SQL, Sequelize, JWT  
+**Tools & Others:** Git, VS Code, Postman, AWS, RESTful APIs, System Design, DSA
+
+---
+
+_Last updated: September 2024_
