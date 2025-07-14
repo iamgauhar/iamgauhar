@@ -59,4 +59,4 @@ Built a scalable, full-stack URL shortener with analytics and authentication.
 
 ---
 
-_Last updated: September 2024_
+_Last updated: July 2025_
