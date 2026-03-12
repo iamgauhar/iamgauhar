@@ -27,7 +27,7 @@ _Bachelor of Computer Application_
 ## 💼 Experience
 
 ### Full-Stack Developer — *Evallo Digital Products (Remote)*  
-📅 **Feb 2024 – Present**
+📅 **Feb 2024 – Nov 2025**
 
 - Developed a **responsive marketing website** using React.js, increasing **lead generation by 40%**.
 - Led a custom integration project, managing code reviews and timelines.
