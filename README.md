@@ -37,19 +37,6 @@ _Bachelor of Computer Application_
 
 ---
 
-## 🛠️ Projects
-
-### [URL Shortener Service](https://github.com/iamgauhar/URL-shortener)
-
-Built a scalable, full-stack URL shortener with analytics and authentication.
-
-- Built with **React.js**, **Node.js**, **Express**, and **MySQL**
-- Auth: Signup, Login, Email Verification, Forgot Password
-- Analytics dashboard to monitor usage
-- Admin interface for managing links
-- Copy-to-clipboard and CRUD functionality
-
----
 
 ## ⚙️ Skills
 
